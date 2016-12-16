@@ -1,4 +1,6 @@
-# ideaengCreated initialy for the benefit of the consulting team at New Idea Engineering Inc
+# ideaeng
+# Created for the benefit of the consulting team at New Idea Engineering Inc
+
 
 These scripts provide a framework for learning about and using enterprise search.
 
